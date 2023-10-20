@@ -1,0 +1,35 @@
+h3
+{
+    color: blueviolet;
+    font-size: 20px;  
+}
+
+div{
+     margin-left: 20px;
+     padding: 5px;
+}
+
+form {
+    padding: 10px;
+    border: 10px solid blueviolet;
+    margin: 10px;
+    background-color: blueviolet;
+    border-radius: 10px;   
+}
+
+input,textarea{
+    border: 2px solid blueviolet;   
+    border-radius: 10px;
+    padding: 10px;
+}
+
+label{
+    color:wheat;
+    font-size: 20px;
+}  
+
+::-webkit-input-placeholder{
+    color: blueviolet;
+}
+
+

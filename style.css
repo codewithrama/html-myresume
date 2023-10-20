@@ -1,0 +1,27 @@
+h2{
+    color: blueviolet;
+    font-size: 20px;
+}
+footer
+{
+    color:black;
+}
+
+table{
+    border: 2px solid blueviolet;
+    border-radius: 100px;
+    padding: 10px;
+    margin: 2px;
+    
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-justify: distribute;
+}
+
+img:hover{
+    zoom: 1.5;
+}
+
